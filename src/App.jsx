@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import React, { lazy, Suspense, useEffect, useState } from 'react';
 
+const HeroScene = lazy(() => import('./HeroScene'));
 
 const skills = {
   'AI & GenAI': ['LLMs', 'Agentic AI', 'RAG', 'LangGraph', 'LangChain', 'Amazon Bedrock', 'OpenAI API', 'Claude', 'PyTorch', 'MCP'],
@@ -89,6 +90,9 @@ function App() {
 
   return (
     <div className="app-shell">
+      <Suspense fallback={null}>
+        <HeroScene />
+      </Suspense>
       <header className={`nav ${scrolled ? 'nav-scrolled' : ''}`}>
         <a className="brand" href="#home" onClick={close}>
           <span>JJ</span>
@@ -140,8 +144,8 @@ function App() {
               <div className="availability"><span/> Open to impactful AI platform opportunities</div>
               <div className="hero-card-lines">
                 <div>⌖ Williamsport, PA</div>
-                <div>✉ joseph.jean.brimel.ai@outlook.com</div>
-                <div>☎ 254-524-2720</div>
+                <a href="mailto:joseph.jean.brimel.ai@outlook.com">✉ joseph.jean.brimel.ai@outlook.com</a>
+                <a href="tel:+12545242720">☎ 254-524-2720</a>
               </div>
               <div className="social-row">
                 <a href="https://github.com/MagicDev119" target="_blank" rel="noreferrer" aria-label="GitHub">GH</a>
