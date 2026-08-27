@@ -149,7 +149,7 @@ function App() {
               </div>
               <div className="social-row">
                 <a href="https://github.com/MagicDev119" target="_blank" rel="noreferrer" aria-label="GitHub">GH</a>
-                <a href="https://www.linkedin.com/in/jean-brimel-joseph-4812a234a" target="_blank" rel="noreferrer" aria-label="LinkedIn">in</a>
+                <a href="https://www.linkedin.com/in/joseph-b-4812a234a/" target="_blank" rel="noreferrer" aria-label="LinkedIn">in</a>
               </div>
             </aside>
           </div>
@@ -242,7 +242,7 @@ function App() {
             <div className="contact-actions">
               <a className="button primary" href="mailto:joseph.jean.brimel.ai@outlook.com">✉ Email me</a>
               <a className="button ghost" href="https://github.com/MagicDev119" target="_blank" rel="noreferrer">GH GitHub</a>
-              <a className="button ghost" href="https://www.linkedin.com/in/jean-brimel-joseph-4812a234a" target="_blank" rel="noreferrer">in LinkedIn</a>
+              <a className="button ghost" href="https://www.linkedin.com/in/joseph-b-4812a234a/" target="_blank" rel="noreferrer">in LinkedIn</a>
             </div>
           </div>
         </section>
