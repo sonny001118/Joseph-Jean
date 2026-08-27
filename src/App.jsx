@@ -226,7 +226,7 @@ function App() {
             <div>
               <div className="section-kicker">Education</div>
               <h2>Bachelor’s Degree, Computer Science</h2>
-              <p>University of North Antsiranana · Madagascar · Sep 2008 — Mar 2013</p>
+              <p>Bucknell University · United States · Sep 2008 — Mar 2013</p>
             </div>
             <div className="education-code">{'</>'}</div>
           </div>
