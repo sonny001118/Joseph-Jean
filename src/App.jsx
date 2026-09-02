@@ -96,7 +96,7 @@ function App() {
       <header className={`nav ${scrolled ? 'nav-scrolled' : ''}`}>
         <a className="brand" href="#home" onClick={close}>
           <span>JJ</span>
-          <strong>Joseph Jean Brimel</strong>
+          <strong>Joseph Bradley Campbell</strong>
         </a>
         <nav className={open ? 'nav-links nav-open' : 'nav-links'}>
           <a href="#about" onClick={close}>About</a>
@@ -226,7 +226,7 @@ function App() {
             <div>
               <div className="section-kicker">Education</div>
               <h2>Bachelor’s Degree, Computer Science</h2>
-              <p>Bucknell University · United States · Sep 2008 — Mar 2013</p>
+              <p>The University of Texas At Austin · United States · Jan 2007 — Dec 2010</p>
             </div>
             <div className="education-code">{'</>'}</div>
           </div>
@@ -250,7 +250,7 @@ function App() {
 
       <footer>
         <div className="container footer-inner">
-          <span>© {new Date().getFullYear()} Joseph Jean Brimel</span>
+          <span>© {new Date().getFullYear()} Joseph Bradley Campbell</span>
           <span>Built with React.</span>
         </div>
       </footer>
