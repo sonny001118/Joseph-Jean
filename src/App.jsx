@@ -103,8 +103,8 @@ function App() {
           <a href="#experience" onClick={close}>Experience</a>
           <a href="#skills" onClick={close}>Skills</a>
           <a href="#contact" onClick={close}>Contact</a>
-          <a className="nav-cta" href="https://github.com/MagicDev119" target="_blank" rel="noreferrer" onClick={close}>
-            GitHub ↗
+          <a className="nav-cta" href="https://www.linkedin.com/in/joseph-b-4812a234a/" target="_blank" rel="noreferrer" onClick={close}>
+            LinkedIn ↗
           </a>
         </nav>
         <button className="menu-btn" onClick={() => setOpen(!open)} aria-label="Toggle navigation">
@@ -143,7 +143,7 @@ function App() {
               </div>
               <div className="availability"><span/> Open to impactful AI platform opportunities</div>
               <div className="hero-card-lines">
-                <div>⌖ Williamsport, PA</div>
+                <div>⌖ Fayetteville, AR</div>
                 <a href="mailto:joseph.jean.brimel.ai@outlook.com">✉ joseph.jean.brimel.ai@outlook.com</a>
                 <a href="tel:+12545242720">☎ 254-524-2720</a>
               </div>
