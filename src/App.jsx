@@ -125,7 +125,7 @@ function App() {
               </p>
               <div className="hero-actions">
                 <a className="button primary" href="#experience">Explore my work ↗</a>
-                <a className="button ghost" href="mailto:joseph.jean.brimel.ai@outlook.com">Let’s talk</a>
+                <a className="button ghost" href="mailto:joseph.b.campbell.ai@outlook.com">Let’s talk</a>
               </div>
               <div className="mini-stats">
                 <div><strong>12+</strong><span>Years engineering</span></div>
@@ -144,7 +144,7 @@ function App() {
               <div className="availability"><span/> Open to impactful AI platform opportunities</div>
               <div className="hero-card-lines">
                 <div>⌖ Fayetteville, AR</div>
-                <a href="mailto:joseph.jean.brimel.ai@outlook.com">✉ joseph.jean.brimel.ai@outlook.com</a>
+                <a href="mailto:joseph.b.campbell.ai@outlook.com">✉ joseph.b.campbell.ai@outlook.com</a>
                 <a href="tel:+12792218489">☎ 279-221-8489</a>
               </div>
               <div className="social-row">
@@ -240,7 +240,7 @@ function App() {
               <p>I’m interested in teams building serious AI products, intelligent platforms, developer infrastructure, and high-scale backend systems.</p>
             </div>
             <div className="contact-actions">
-              <a className="button primary" href="mailto:joseph.jean.brimel.ai@outlook.com">✉ Email me</a>
+              <a className="button primary" href="mailto:joseph.b.campbell.ai@outlook.com">✉ Email me</a>
               <a className="button ghost" href="https://github.com/MagicDev119" target="_blank" rel="noreferrer">GH GitHub</a>
               <a className="button ghost" href="https://www.linkedin.com/in/joseph-b-4812a234a/" target="_blank" rel="noreferrer">in LinkedIn</a>
             </div>
