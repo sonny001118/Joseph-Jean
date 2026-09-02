@@ -145,7 +145,7 @@ function App() {
               <div className="hero-card-lines">
                 <div>⌖ Fayetteville, AR</div>
                 <a href="mailto:joseph.jean.brimel.ai@outlook.com">✉ joseph.jean.brimel.ai@outlook.com</a>
-                <a href="tel:+12545242720">☎ 254-524-2720</a>
+                <a href="tel:+12792218489">☎ 279-221-8489</a>
               </div>
               <div className="social-row">
                 <a href="https://github.com/MagicDev119" target="_blank" rel="noreferrer" aria-label="GitHub">GH</a>
