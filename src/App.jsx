@@ -95,7 +95,7 @@ function App() {
       </Suspense>
       <header className={`nav ${scrolled ? 'nav-scrolled' : ''}`}>
         <a className="brand" href="#home" onClick={close}>
-          <span>JJ</span>
+          <span>JB</span>
           <strong>Joseph Bradley Campbell</strong>
         </a>
         <nav className={open ? 'nav-links nav-open' : 'nav-links'}>
@@ -136,7 +136,7 @@ function App() {
 
             <aside className="hero-card">
               <div className="avatar-orbit">
-                <div className="avatar">JJ</div>
+                <div className="avatar">JB</div>
                 <span className="orbit-dot dot-a" />
                 <span className="orbit-dot dot-b" />
                 <span className="orbit-dot dot-c" />
